@@ -1,0 +1,8 @@
+{
+    "dotnet.defaultSolution": "AI-102-AIEngineer.sln",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "python",
+    "python.analysis.typeCheckingMode": "off"
+}
