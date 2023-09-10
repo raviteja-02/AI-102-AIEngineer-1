@@ -2,9 +2,9 @@
 SETLOCAL ENABLEDELAYEDEXPANSION
 
 rem Set values for your storage account
-set subscription_id=YOUR_SUBSCRIPTION_ID
-set azure_storage_account=YOUR_AZURE_STORAGE_ACCOUNT_NAME
-set azure_storage_key=YOUR_AZURE_STORAGE_KEY
+set subscription_id=3321c4d4-e1fd-4338-881d-9e84264fd105
+set azure_storage_account=ravitejastorage
+set azure_storage_key=Mv7d7XP7FT24OruACWzxCQsHgkiSllbXSDVDb8TalJBEFLtfr8Sobk07CrxpM1fffPmfUO9ueaUf+AStACeZGA==
 
 
 echo Creating container...

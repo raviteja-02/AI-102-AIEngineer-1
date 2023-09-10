@@ -1,8 +1,8 @@
 @echo off
 
 rem Set values for your Search service
-set url=YOUR_SEARCH_URL
-set admin_key=YOUR_ADMIN_KEY
+set url=https://raviteja-ss.search.windows.net
+set admin_key=434cg3fWps5uAw2033ZiKhQxvbUrVHBaemomJdyesXAzSeB3UuWE
 
 echo -----
 echo Updating the skillset...
